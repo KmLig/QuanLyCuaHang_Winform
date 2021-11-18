@@ -1,0 +1,24 @@
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\DoAn_NMLT_2021\bin\Debug\DoAn_NMLT_2021.exe.config
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\DoAn_NMLT_2021\bin\Debug\DoAn_NMLT_2021.exe
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\DoAn_NMLT_2021\bin\Debug\DoAn_NMLT_2021.pdb
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\DoAn_NMLT_2021\obj\Debug\DoAn_NMLT_2021.csproj.AssemblyReference.cache
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\DoAn_NMLT_2021\obj\Debug\DoAn_NMLT_2021.frm_QuanLyLoaiHang.resources
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\DoAn_NMLT_2021\obj\Debug\DoAn_NMLT_2021.Properties.Resources.resources
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\DoAn_NMLT_2021\obj\Debug\DoAn_NMLT_2021.csproj.GenerateResource.cache
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\DoAn_NMLT_2021\obj\Debug\DoAn_NMLT_2021.csproj.CoreCompileInputs.cache
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\DoAn_NMLT_2021\obj\Debug\DoAn_NMLT_2021.exe
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\DoAn_NMLT_2021\obj\Debug\DoAn_NMLT_2021.pdb
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\DoAn_NMLT_2021\obj\Debug\DoAn_NMLT_2021.frm_QuanLyMatHang.resources
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\DoAn_NMLT_2021\obj\Debug\DoAn_NMLT_2021.frm_Home.resources
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\Đồ án Quản lý Cửa hàng_Winform_PXKhiem_21880067\bin\Debug\DoAn_NMLT_2021.exe.config
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\Đồ án Quản lý Cửa hàng_Winform_PXKhiem_21880067\bin\Debug\DoAn_NMLT_2021.exe
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\Đồ án Quản lý Cửa hàng_Winform_PXKhiem_21880067\bin\Debug\DoAn_NMLT_2021.pdb
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\Đồ án Quản lý Cửa hàng_Winform_PXKhiem_21880067\obj\Debug\DoAn_NMLT_2021.csproj.AssemblyReference.cache
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\Đồ án Quản lý Cửa hàng_Winform_PXKhiem_21880067\obj\Debug\DoAn_NMLT_2021.frm_Home.resources
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\Đồ án Quản lý Cửa hàng_Winform_PXKhiem_21880067\obj\Debug\DoAn_NMLT_2021.frm_QuanLyLoaiHang.resources
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\Đồ án Quản lý Cửa hàng_Winform_PXKhiem_21880067\obj\Debug\DoAn_NMLT_2021.frm_QuanLyMatHang.resources
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\Đồ án Quản lý Cửa hàng_Winform_PXKhiem_21880067\obj\Debug\DoAn_NMLT_2021.Properties.Resources.resources
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\Đồ án Quản lý Cửa hàng_Winform_PXKhiem_21880067\obj\Debug\DoAn_NMLT_2021.csproj.GenerateResource.cache
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\Đồ án Quản lý Cửa hàng_Winform_PXKhiem_21880067\obj\Debug\DoAn_NMLT_2021.csproj.CoreCompileInputs.cache
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\Đồ án Quản lý Cửa hàng_Winform_PXKhiem_21880067\obj\Debug\DoAn_NMLT_2021.exe
+D:\2021\HK1\Nhập môn lập trình\Đồ án  - Final\Đồ án Quản lý Cửa hàng_Winform_PXKhiem_21880067\obj\Debug\DoAn_NMLT_2021.pdb
